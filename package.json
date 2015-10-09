@@ -1,0 +1,7 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "description": "Gina playing with node.",
+  "main": "./fourtytwo",
+  "author": "Gina Maini <drawginadraw@gmail.com> (http://www.gina.codes)"
+}
